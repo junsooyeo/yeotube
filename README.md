@@ -1,2 +1,16 @@
 # yeotube
- Clone version of Youtube
+
+Clone version of Youtube
+
+## Pages:
+
+- [ ] Home
+- [x] Join
+- [x]Login
+- [x] Search
+- [ ] User Detail
+- [ ] Edit Profile
+- [ ] Change Password
+- [ ] Upload
+- [ ] Video Detail
+- [ ] Edit Video
